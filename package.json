@@ -1,0 +1,23 @@
+{
+  "name": "svg-loader-issue-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protango/svg-loader-issue-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/protango/svg-loader-issue-1/issues"
+  },
+  "homepage": "https://github.com/protango/svg-loader-issue-1#readme",
+  "dependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
